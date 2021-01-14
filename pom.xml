@@ -34,7 +34,7 @@
         <aliyun-java-sdk-core.version>3.2.3</aliyun-java-sdk-core.version>
         <aliyun-java-sdk-dysmsapi.version>1.0.0</aliyun-java-sdk-dysmsapi.version>
         <aliyun.oss.version>3.6.0</aliyun.oss.version>
-        <poi.version>3.15</poi.version>
+        <poi.version>4.1.2</poi.version>
     </properties>
 
     <dependencies>
